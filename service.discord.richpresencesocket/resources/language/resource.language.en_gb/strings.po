@@ -1,7 +1,6 @@
 # XBMC Media Center language file
 msgid ""
 msgstr ""
-
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: en\n"
@@ -64,4 +63,92 @@ msgstr ""
 
 msgctxt "#32022"
 msgid "Show title"
+msgstr ""
+
+msgctxt "#32023"
+msgid "Server IP Address"
+msgstr ""
+
+msgctxt "#32024"
+msgid "Set the IP address of the server for Discord Rich Presence communication."
+msgstr ""
+
+msgctxt "#32025"
+msgid "State Field Format"
+msgstr ""
+
+msgctxt "#32026"
+msgid "Details Field Format"
+msgstr ""
+
+msgctxt "#32027"
+msgid "Episode Display"
+msgstr ""
+
+msgctxt "#32028"
+msgid "Movie Display"
+msgstr ""
+
+msgctxt "#32029"
+msgid "Season & Episode"
+msgstr ""
+
+msgctxt "#32030"
+msgid "Show Title"
+msgstr ""
+
+msgctxt "#32031"
+msgid "Genre"
+msgstr ""
+
+msgctxt "#32032"
+msgid "Episode Title Only"
+msgstr ""
+
+msgctxt "#32033"
+msgid "Movie Title"
+msgstr ""
+
+msgctxt "#32034"
+msgid "Show presence when in Kodi menu"
+msgstr ""
+
+msgctxt "#32035"
+msgid "Discord Client ID"
+msgstr ""
+
+msgctxt "#32036"
+msgid "Select the Discord Client ID for Rich Presence."
+msgstr ""
+
+msgctxt "#32037"
+msgid "Enable Debug Logging"
+msgstr ""
+
+msgctxt "#32038"
+msgid "Enable detailed logging for troubleshooting."
+msgstr ""
+
+msgctxt "#32039"
+msgid "Server Port"
+msgstr ""
+
+msgctxt "#32040"
+msgid "Set the port number for Discord Rich Presence server communication."
+msgstr ""
+
+msgctxt "#32041"
+msgid "Language"
+msgstr ""
+
+msgctxt "#32042"
+msgid "Select the language for the addon's interface."
+msgstr ""
+
+msgctxt "#32043"
+msgid "English"
+msgstr ""
+
+msgctxt "#32044"
+msgid "Spanish"
 msgstr ""

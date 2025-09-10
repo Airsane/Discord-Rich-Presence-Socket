@@ -1,0 +1,154 @@
+# XBMC Media Center language file
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+
+msgctxt "#32001"
+msgid "General"
+msgstr "General"
+
+msgctxt "#32002"
+msgid "Show presence while not playing"
+msgstr "Mostrar presencia cuando no se reproduce"
+
+msgctxt "#32003"
+msgid "Playing ..."
+msgstr "Reproduciendo ..."
+
+msgctxt "#32004"
+msgid "Watching"
+msgstr "Viendo"
+
+msgctxt "#32005"
+msgid "Kodi"
+msgstr "Kodi"
+
+msgctxt "#32010"
+msgid "Customize"
+msgstr "Personalizar"
+
+msgctxt "#32011"
+msgid "Movie"
+msgstr "Película"
+
+msgctxt "#32012"
+msgid "Bottom text"
+msgstr "Texto inferior"
+
+msgctxt "#32013"
+msgid "Genre"
+msgstr "Género"
+
+msgctxt "#32014"
+msgid "Title"
+msgstr "Título"
+
+msgctxt "#32015"
+msgid "None"
+msgstr "Ninguno"
+
+msgctxt "#32016"
+msgid "Top text"
+msgstr "Texto superior"
+
+msgctxt "#32020"
+msgid "Episode"
+msgstr "Episodio"
+
+msgctxt "#32021"
+msgid "Episode"
+msgstr "Episodio"
+
+msgctxt "#32022"
+msgid "Show title"
+msgstr "Título del programa"
+
+msgctxt "#32023"
+msgid "Server IP Address"
+msgstr "Dirección IP del servidor"
+
+msgctxt "#32024"
+msgid "Set the IP address of the server for Discord Rich Presence communication."
+msgstr "Establece la dirección IP del servidor para la comunicación de presencia enriquecida de Discord."
+
+msgctxt "#32025"
+msgid "State Field Format"
+msgstr "Formato del campo de estado"
+
+msgctxt "#32026"
+msgid "Details Field Format"
+msgstr "Formato del campo de detalles"
+
+msgctxt "#32027"
+msgid "Episode Display"
+msgstr "Visualización de episodios"
+
+msgctxt "#32028"
+msgid "Movie Display"
+msgstr "Visualización de películas"
+
+msgctxt "#32029"
+msgid "Season & Episode"
+msgstr "Temporada y episodio"
+
+msgctxt "#32030"
+msgid "Show Title"
+msgstr "Título del programa"
+
+msgctxt "#32031"
+msgid "Genre"
+msgstr "Género"
+
+msgctxt "#32032"
+msgid "Episode Title Only"
+msgstr "Solo título del episodio"
+
+msgctxt "#32033"
+msgid "Movie Title"
+msgstr "Título de la película"
+
+msgctxt "#32034"
+msgid "Show presence when in Kodi menu"
+msgstr "Mostrar presencia en el menú de Kodi"
+
+msgctxt "#32035"
+msgid "Discord Client ID"
+msgstr "ID de cliente de Discord"
+
+msgctxt "#32036"
+msgid "Select the Discord Client ID for Rich Presence."
+msgstr "Selecciona el ID de cliente de Discord para la presencia enriquecida."
+
+msgctxt "#32037"
+msgid "Enable Debug Logging"
+msgstr "Habilitar registro de depuración"
+
+msgctxt "#32038"
+msgid "Enable detailed logging for troubleshooting."
+msgstr "Habilita el registro detallado para solucionar problemas."
+
+msgctxt "#32039"
+msgid "Server Port"
+msgstr "Puerto del servidor"
+
+msgctxt "#32040"
+msgid "Set the port number for Discord Rich Presence server communication."
+msgstr "Establece el número de puerto para la comunicación del servidor de presencia enriquecida de Discord."
+
+msgctxt "#32041"
+msgid "Language"
+msgstr "Idioma"
+
+msgctxt "#32042"
+msgid "Select the language for the addon's interface."
+msgstr "Selecciona el idioma para la interfaz del complemento."
+
+msgctxt "#32043"
+msgid "English"
+msgstr "Inglés"
+
+msgctxt "#32044"
+msgid "Spanish"
+msgstr "Español"
